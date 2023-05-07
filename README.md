@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="40" src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif"">
+    <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"">
     <p align="center">
         <strong>We didn't receive a proper request from your browser.</strong>
     </p>
