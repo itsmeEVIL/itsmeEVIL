@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amir&section=header&reversal=false&animation=fadeIn&textBg=false&desc=Aspiring%20Dev&descAlignY=65&fontSize=90)
 
-# Tech Stack
+# About Me
+
+```cpp
+string name = "Amir";
+int age = 20;
+string langs[] = {"English", "Malay"};
+string university = "Universiti Teknologi PETRONAS";
+string major = "Computer Science";
+```
+
+# My Skils
 
 ## Operating Systems
 
