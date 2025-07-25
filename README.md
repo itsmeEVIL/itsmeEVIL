@@ -22,7 +22,6 @@
 
 ![Design & Content Tools](https://go-skill-icons.vercel.app/api/icons?i=canva,davinci,figma,illustrator,obs,photoshop&perline=7)
 
-<<<<<<< HEAD
 <details>
     <summary><h1>My Github Stats</h1></summary>
     <figure>
@@ -30,9 +29,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeevil&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
     </figure>
 </details>
-=======
-# My Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsmeevil&hide_border=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeevil&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
->>>>>>> e69c20978e5d320828117de25cdce17146e58a62
